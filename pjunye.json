@@ -1,0 +1,32 @@
+{
+	"id": "pjunye.app.sub",
+	"name": "PJUNYE",
+	"author": "@PJUNYE",
+	"icon": "https://raw.githubusercontent.com/PJUNYE2/boxjs/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210512215738.jpg",
+	"repo": "",
+	"apps": [{
+		"id": "whd",
+		"name": "whd",
+		"keys": ["wdwhdbody","wdwhdhd","wdwhdspbody"],
+		"settings": [
+			{
+				"id": "wdwhdstatus",
+				"name": "当前账号",
+				"val": "1",
+				"type": "number",
+				"desc": "当前账号对应"
+			},
+			{
+				"id": "wdwhdcount",
+				"name": "账号个数",
+				"val": "1",
+				"type": "number",
+				"desc": "需要几个账号,数字为几"
+			}
+		],
+		"author": "@PJUNYE",
+		"repo": [""],
+		"script": "",
+		"icons": ["", ""]
+	}]
+}
